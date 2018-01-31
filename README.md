@@ -6,6 +6,6 @@
 
 * Maybe add a disclaimer that it's a word-in-progress, etc.
 
-'''(r)
+```(r)
 print("Brody sucks")
-'''
+```
