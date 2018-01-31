@@ -7,5 +7,7 @@
 * Maybe add a disclaimer that it's a word-in-progress, etc.
 
 ```(r)
-print("Brody sucks")
+print("Brody suckseeds at life")
 ```
+
+suckseeds = succeeds
