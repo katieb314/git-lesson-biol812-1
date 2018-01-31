@@ -11,3 +11,5 @@ print("Brody suckseeds at life")
 ```
 
 suckseeds = fails
+
+lol true
