@@ -10,4 +10,4 @@
 print("Brody suckseeds at life")
 ```
 
-suckseeds = succeeds
+suckseeds = fails
