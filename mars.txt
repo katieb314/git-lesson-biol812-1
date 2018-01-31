@@ -1,4 +1,3 @@
-some changes that prevent checkout
 changes
 more changes.... we are modifying this line
 let's get stuck in vim
